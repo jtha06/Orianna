@@ -1,0 +1,9 @@
+lib.orianna.api
+lib.orianna.api.queryspecs
+lib.orianna.type.champion
+lib.orianna.type.game
+lib.orianna.type.league
+lib.orianna.type.staticdata
+lib.orianna.type.stats
+lib.orianna.type.summoner
+lib.orianna.type.team
