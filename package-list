@@ -3,6 +3,7 @@ lib.orianna.api.queryspecs
 lib.orianna.type.champion
 lib.orianna.type.game
 lib.orianna.type.league
+lib.orianna.type.match
 lib.orianna.type.staticdata
 lib.orianna.type.stats
 lib.orianna.type.summoner
