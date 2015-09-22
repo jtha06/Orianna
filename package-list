@@ -10,7 +10,6 @@ com.robrua.orianna.type.core.currentgame
 com.robrua.orianna.type.core.game
 com.robrua.orianna.type.core.league
 com.robrua.orianna.type.core.match
-com.robrua.orianna.type.core.matchhistory
 com.robrua.orianna.type.core.matchlist
 com.robrua.orianna.type.core.staticdata
 com.robrua.orianna.type.core.stats
@@ -24,7 +23,6 @@ com.robrua.orianna.type.dto.featuredgames
 com.robrua.orianna.type.dto.game
 com.robrua.orianna.type.dto.league
 com.robrua.orianna.type.dto.match
-com.robrua.orianna.type.dto.matchhistory
 com.robrua.orianna.type.dto.matchlist
 com.robrua.orianna.type.dto.staticdata
 com.robrua.orianna.type.dto.stats
