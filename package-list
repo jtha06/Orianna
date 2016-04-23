@@ -5,6 +5,7 @@ com.robrua.orianna.store
 com.robrua.orianna.type.api
 com.robrua.orianna.type.core
 com.robrua.orianna.type.core.champion
+com.robrua.orianna.type.core.championmastery
 com.robrua.orianna.type.core.common
 com.robrua.orianna.type.core.currentgame
 com.robrua.orianna.type.core.game
@@ -18,6 +19,7 @@ com.robrua.orianna.type.core.summoner
 com.robrua.orianna.type.core.team
 com.robrua.orianna.type.dto
 com.robrua.orianna.type.dto.champion
+com.robrua.orianna.type.dto.championmastery
 com.robrua.orianna.type.dto.currentgame
 com.robrua.orianna.type.dto.featuredgames
 com.robrua.orianna.type.dto.game
